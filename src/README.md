@@ -1,6 +1,8 @@
 The Inter-Borough Dog Adoption Center web application allows users to view dogs that are readily available for adoption, as well as navigate to other links that would allow them to put a dog up for adoption, learn more about the Adoption Center, and watch an informational video about rescuing dogs for first timers. 
 
 WIREFRAME HERE:
+![csssd](https://user-images.githubusercontent.com/107881028/186776509-f4cbe0ad-910c-420e-a36e-d3b539202ec2.jpeg)
+
 
 
 LINK TO GITHUB: git@github.com:calugo71/Phase.2.Project.git
